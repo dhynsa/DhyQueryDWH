@@ -1,0 +1,12 @@
+DWH
+Username           : SIT_READ_ONLY 
+Password           : sit123
+SID                : DWHSITDB
+IP                 : 10.71.34.239
+Port               : 1522
+
+
+OPUS attached. -> ccn1.xml
+
+
+MSTR Report : http://10.71.33.222/Microstrategy/asp/Main.aspx
